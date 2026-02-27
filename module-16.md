@@ -362,11 +362,11 @@ On the way home he felt good. He had spent more than he planned, but less than h
 
 ## ЧТО ДАЛЬШЕ
 
-В **Модуле 17** мы изучим слова, связанные с **едой в кафе и ресторане**:
+В **Модуле 17** мы изучим слова, связанные с **эмоциями и чувствами**:
 
-- menu, dish, order, serve, waiter, bill, tip, table *(меню, блюдо, заказ, официант...)*
-- delicious, fresh, hot, cold, sweet, sour, spicy *(вкусный, свежий, острый...)*
-- breakfast, lunch, dinner, snack, dessert, drink *(завтрак, обед, десерт...)*
+- happy, sad, angry, afraid, worry, hope, enjoy, hate, love *(счастливый, грустный, злой...)*
+- feel, miss, care, cry, laugh, smile *(чувствовать, скучать, плакать, смеяться...)*
+- tired, bored, surprised, calm, stress *(уставший, скучающий, удивлённый, спокойный...)*
 
 ---
 
