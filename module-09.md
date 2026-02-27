@@ -343,11 +343,11 @@ I looked around. It was quiet, clean and full of light. I felt happy for her.
 
 ## ЧТО ДАЛЬШЕ
 
-В **Модуле 10** мы изучим слова, связанные с **городом и транспортом**:
+В **[Модуле 10](module-10.md)** мы изучим слова, связанные с **семьёй и родственниками**:
 
-- street, road, bridge, park, square, building, shop, school, hospital *(улица, дорога, мост...)*
-- car, bus, train, plane, bike, walk, drive, ride *(машина, автобус, поезд...)*
-- left, right, straight, far, near, direction, map *(лево, право, прямо...)*
+- mother, father, sister, brother, son, daughter *(мать, отец, сестра, брат, сын, дочь)*
+- husband, wife, parents, grandma, grandpa, aunt, uncle, cousin *(муж, жена, родители, бабушка, дедушка...)*
+- baby, grow up, love, miss, visit, together *(малыш, расти, любить, скучать, навещать, вместе)*
 
 ---
 

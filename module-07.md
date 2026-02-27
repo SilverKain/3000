@@ -351,13 +351,12 @@ I don't know much about her yet. But she feels like a good person. Quiet, clean,
 
 ## ЧТО ДАЛЬШЕ
 
-В **Модуле 8** мы изучим слова, связанные с **днями, месяцами и временем**:
+В **[Модуле 8](module-08.md)** мы изучим слова, связанные с **днями недели и временем**:
 
-- Monday, Tuesday... Sunday (понедельник, вторник... воскресенье)
-- January, February... December (январь, февраль... декабрь)
-- year, month, week, hour, minute (год, месяц, неделя, час, минута)
-- yesterday, today, tomorrow (вчера, сегодня, завтра)
-- ago, in, since, for (назад, через, с тех пор, в течение)
+- Monday, Tuesday... Sunday *(понедельник, вторник... воскресенье)*
+- week, month, year, hour, minute *(неделя, месяц, год, час, минута)*
+- yesterday, today, tomorrow *(вчера, сегодня, завтра)*
+- date, calendar, early, late, next *(дата, календарь, рано, поздно, следующий)*
 
 ---
 

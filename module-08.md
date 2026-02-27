@@ -345,11 +345,12 @@ Next week will be busy again. But now — it is the weekend. And every minute of
 
 ## ЧТО ДАЛЬШЕ
 
-В **Модуле 9** мы изучим слова, связанные с **местом и пространством**:
+В **[Модуле 9](module-09.md)** мы изучим слова, связанные с **домом: комнатами и мебелью**:
 
-- here, there, where, somewhere, everywhere, nowhere *(здесь, там, где, где-то...)*
-- near, far, inside, outside, above, below, between, around *(рядом, далеко, внутри...)*
-- place, area, corner, side, top, bottom, front, back *(место, угол, сторона...)*
+- bedroom, bathroom, kitchen, living room *(спальня, ванная, кухня, гостиная)*
+- door, window, wall, floor, ceiling *(дверь, окно, стена, пол, потолок)*
+- table, chair, bed, sofa, shelf, lamp, mirror, carpet, curtain *(стол, стул, кровать, диван, полка...)*
+- key, stairs *(ключ, лестница)*
 
 ---
 

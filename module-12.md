@@ -330,11 +330,11 @@ Now I just need to sleep well. Wish me luck.
 
 ## ЧТО ДАЛЬШЕ
 
-В **Модуле 13** мы изучим слова, связанные с **городом и транспортом**:
+В **[Модуле 13](module-13.md)** мы изучим слова, связанные с **природой и погодой**:
 
-- street, road, bridge, corner, park, building, square *(улица, дорога, мост, угол...)*
-- bus, train, car, taxi, bike, walk, drive, ride *(автобус, поезд, машина...)*
-- stop, station, ticket, far, near, left, right, map *(остановка, станция, билет...)*
+- weather, sun, rain, snow, wind, cloud, sky *(погода, солнце, дождь, снег, ветер, облако, небо)*
+- tree, river, sea, mountain, forest, field, ground *(дерево, река, море, гора, лес, поле, земля)*
+- hot, cold, warm, wet, season, outside *(жаркий, холодный, тёплый, мокрый, сезон, на улице)*
 
 ---
 
