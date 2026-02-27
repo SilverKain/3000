@@ -103,11 +103,11 @@
 
 ---
 
-> **Обрати внимание — «go to bed» vs «sleep»:**
-> **go to bed** — лечь спать (физическое действие): *She went to bed at ten.* — Она легла спать в десять.
+> **Обрати внимание — «go to bed» vs «fall asleep» vs «sleep»:**
+> **go to bed** — лечь спать (физическое действие, переместиться в кровать): *She went to bed at ten.* — Она легла спать в десять.
+> **fall asleep / go to sleep** — заснуть (момент, когда сон пришёл): *He fell asleep on the sofa.* — Он заснул на диване. *She went to sleep quickly.* — Она заснула быстро.
 > **sleep** — спать (состояние): *She slept for eight hours.* — Она спала восемь часов.
-> *fall asleep* — заснуть: *He fell asleep on the sofa.* — Он заснул на диване.
-> Нельзя сказать *"I went to sleep at ten"* вместо *"I went to bed at ten"* — это звучит неестественно.
+> Разница: *went to bed* = оказался в постели; *fell asleep / went to sleep* = потерял сознание и заснул. Первое предшествует второму.
 
 ---
 
@@ -248,7 +248,7 @@ still                            — всё ещё
 **3.** Ей нравится тишина вечером — никаких звонков, никаких новостей.
 > **She likes the quiet in the evening — no calls, no news.**
 
-**4.** Перед сном она пишет短短 короткий список на завтра.
+**4.** Перед сном она пишет короткий список на завтра.
 > **Before bed she writes a short list for tomorrow.**
 
 **5.** На улице темно и холодно, но дома тепло и горит лампа.
