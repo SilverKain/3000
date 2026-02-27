@@ -24,7 +24,7 @@
 | 588 | **hospital** | [ˈhɒspɪtl] | больница | *The hospital is in the north of the city — not far, but you need a car.* | Больница в северной части города — не далеко, но нужна машина. |
 | 589 | **church** | [tʃɜːtʃ] | церковь | *The old church in the centre is three hundred years old.* | Старая церковь в центре насчитывает триста лет. |
 | 590 | **museum** | [mjuːˈziːəm] | музей | *She went to the museum on her own — she likes to read every label.* | Она пошла в музей одна — она любит читать всё до последней подписи. |
-| 591 | **corner** | [ˈkɔːnə] | угол; угловой | *Turn right at the next corner — the office is the red building on the left.* | На следующем углу повернуте направо — офис это красное здание слева. |
+| 591 | **corner** | [ˈkɔːnə] | угол; угловой | *Turn right at the next corner — the office is the red building on the left.* | На следующем углу поверните направо — офис это красное здание слева. |
 | 592 | **centre** | [ˈsentə] | центр | *They live in the city centre — everything is walkable from their flat.* | Они живут в центре города — из квартиры можно дойти до всего пешком. |
 | 593 | **area** | [ˈeərɪə] | район; зона; площадь | *This area has changed a lot in the last ten years — new cafés, new buildings.* | За последние десять лет этот район сильно изменился — новые кафе, новые здания. |
 | 594 | **address** | [əˈdres] | адрес; обращаться | *Can you send me your address? I want to send you something.* | Можешь прислать мне свой адрес? Хочу тебе кое-что отправить. |
