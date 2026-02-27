@@ -2,7 +2,7 @@
 
 **Слова 38–57 из 3000 самых частотных**
 
-← [Вернуться к плану курса](3000.md)
+← [Вернуться к плану курса](README.md)
 
 ---
 
@@ -85,7 +85,7 @@
 
 **10.** I ask my friend a question and he thinks for a moment.
 > Я задаю другу вопрос, и он думает секунду.
-> *(question — [ˈkwesdʒən] — вопрос; moment — [ˈməʊmənt] — момент, секунда)*
+> *(question — [ˈkwestʃən] — вопрос; moment — [ˈməʊmənt] — момент, секунда)*
 
 **11.** She gets back home at nine every evening.
 > Она возвращается домой в девять каждый вечер.
