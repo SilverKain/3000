@@ -119,7 +119,7 @@ When the old factory on the edge of town finally closed, most people talked abou
 
 For twenty years the river had run dark and slow through the industrial part of the district. Nobody swam in it. Nobody fished in it. Children were told not to go near it.
 
-After the factory closed, a local group began cleaning the riverbank. It took two years. Then wait.
+After the factory closed, a local group began cleaning the riverbank. It took two years. Then — the wait.
 
 The first sign was the birds. A species that hadn't been seen along that stretch of river for decades appeared one spring — two of them, then a small group. Elena photographed them with her phone and sent the image to the local nature group. They confirmed it. Then they were very quiet for a moment.
 
