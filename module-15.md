@@ -324,11 +324,11 @@ Outside, the city was busy. Cars, buses, people. Tom thought about his job. It w
 
 ## ЧТО ДАЛЬШЕ
 
-В **Модуле 16** мы изучим слова, связанные с **едой в кафе и ресторане**:
+В **Модуле 16** мы изучим слова, связанные с **покупками и деньгами**:
 
-- menu, dish, order, serve, waiter, bill, tip, table *(меню, блюдо, заказ...)*
-- delicious, fresh, hot, cold, sweet, sour, spicy *(вкусный, свежий, острый...)*
-- breakfast, lunch, dinner, snack, dessert, drink *(завтрак, обед, десерт...)*
+- shop, market, price, cost, pay, buy, sell *(магазин, рынок, цена, покупать...)*
+- money, cash, card, change, wallet, receipt, queue *(деньги, наличные, карта, чек...)*
+- cheap, expensive, sale, discount, spend, save *(дешёвый, дорогой, распродажа, скидка...)*
 
 ---
 
